@@ -26,7 +26,7 @@ pip install -r requirements.txt
 python motion_heatmap.py
 ```
 3. Follow the prompts to:
-   - Enter your video filename
+   - Enter your video filename (make sure to include the extension of the video for example: "Video.mp4")
    - Set the buffer size (how long motion trails last)
    - Set the motion threshold (how sensitive to movement)
 4. Find your processed video in the `output` folder
