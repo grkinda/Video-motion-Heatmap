@@ -30,6 +30,7 @@ python motion_heatmap.py
    - Set the buffer size (how long motion trails last)
    - Set the motion threshold (how sensitive to movement)
 4. Find your processed video in the `output` folder
+5. A graph of the rate of motion of the vide will also be included in the folder
 
 ## Tips 💡
 
